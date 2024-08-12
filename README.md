@@ -14,7 +14,7 @@
             background-color: #0e78be;
             color: white;
             text-align: center;
-            padding: 1em 0;
+            padding: 1 0;
         }
         nav {
             background-color: #333;
@@ -32,36 +32,36 @@
             display: block;
             color: white;
             text-align: center;
-            padding: 14px 16px;
+            padding: 14 16;
             text-decoration: none;
         }
         nav ul li a:hover {
             background-color: #111;
         }
         .container {
-            padding: 20px;
+            padding: 20;
         }
         .product {
-            border: 1px solid #ddd;
-            margin: 10px;
-            padding: 10px;
-            border-radius: 5px;
+            border: 1 solid #ddd;
+            margin: 10;
+            padding: 10;
+            border-radius: 5;
             display: inline-block;
-            width: 30%;
+            width: 30;
             box-sizing: border-box;
         }
         .product img {
-            width: 60%;
+            width: 60;
             height: auto;
         }
         footer {
             background-color: #333;
             color: white;
             text-align: center;
-            padding: 10px 0;
+            padding: 10 0;
             position: fixed;
             bottom: 0;
-            width: 60%;
+            width: 60;
         }
     </style>
 </head>
