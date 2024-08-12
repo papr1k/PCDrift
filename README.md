@@ -71,6 +71,61 @@
         <p>Labākie datori par izdevīgām cenām</p>
     </header>
 
+    <nav>
+        <ul>
+            <li><a href="#home">Sākums</a></li>
+            <li><a href="#products">Produkti</a></li>
+            <li><a href="#about">Par Mums</a></li>
+            <li><a href="#contact">Kontakti</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <section id="home">
+            <h2>Sākums</h2>
+            <p>Laipni lūdzam mūsu datoru veikalā! Zemāk jūs redzat 3 piedāvājumus ar dažādām cenām,</p>
+                 <p>svarīgi zināt ka tie ir tikai paraugi kurus tāpat var pasūtīt,</p>
+                 <p>bet ir arī opcija sarumāt personalizētu datoru, pēc jūsu vajadzībām un maksā tas tikpat cik piedāvājumi zemāk.</p>
+        </section>
+
+        <section id="products">
+            <h2>Jau gatavi varianti</h2>
+            <div class="product">
+                <img src="![DATORS](https://github.com/user-attachments/assets/0bcb52a0-ac43-466b-81cc-c58ca5101485)" alt="Mājas dators">
+                <h3>Mājas</h3>
+                <p>Šāds dators noderēs mācībām, darbam un būs spējīgs palaist dauz spēles, bet zemā kvalitātē.</p>
+                <p><strong>Cena ap: 400€</strong></p>
+            </div>
+            <div class="product">
+                <img src="![DATORS]![DARORS2](https://github.com/user-attachments/assets/e6d64e60-d6b8-46b0-8213-523bf289b8de)" alt="Spēļu dators">
+                <h3>Spēļu</h3>
+                <p>Šis dators noderēs vienkāršai lietošanai, kā pamācīties, paskatīties filmas,  paspēlēt labā kvalitātē.</p>
+                <p><strong>Cena ap: 900€</strong></p>
+            </div>
+            <div class="product">
+                <img src="![DATORS3](https://github.com/user-attachments/assets/9138ac07-a3a0-43ba-be10-ceb8c9437f6d)" alt="Vip">  
+                <h3>Vip</h3>
+                <p>Šis dators noderēs gandrīz visām spēlēm labākejā kvalitātē un darbam kas prasa jaudīgu datoru.</p>
+                <p><strong>Cena ap: 1400€</strong></p>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>Par Mums</h2>
+            <p>Mēs esam maza komanda no pāris cilvēkiem, kura vēlas dot Latvijaj,</p>
+                <p> jaudīgus, kvalitatīvus datorus par zemām cenām.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Kontakti:</h2>
+            <p>Jautājumu gadījumā lūdzu sazinieties ar mums:</p>
+            <p>Telefons: +371 22090771</p>
+            <p>E-pasts: info@datoruveikals.lv</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 PCDrift Veikals. Visas tiesības aizsargātas.</p>
+    </footer>
 </body>
 </html>
-
